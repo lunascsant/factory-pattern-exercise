@@ -1,0 +1,7 @@
+src/main/java/org/example/GeradorWord.java
+src/main/java/org/example/PdfDocumento.java
+src/main/java/org/example/GeradorDocumento.java
+src/main/java/org/example/Main.java
+src/main/java/org/example/WordDocumento.java
+src/main/java/org/example/GeradorPdf.java
+src/main/java/org/example/Documento.java
